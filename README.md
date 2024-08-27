@@ -10,4 +10,4 @@ Meu nome é kzWhitezinn
 - No Discord 
 - @zwhitezinn_
 
-![https://cdn.discordapp.com/attachments/1169321258580717668/1170091851332730951/a_3fbef22432fc7feb3014a2d9db1a26f2.gif?ex=66cf8374&is=66ce31f4&hm=1c6970c2efc1157557d76314c0edbf5fc5edaca47e614d3ad4ad7fbac120fe3f& ]
+![https://cdn.discordapp.com/attachments/1170060867707076648/1170337532576272404/s_.jpg?ex=66cf16c3&is=66cdc543&hm=748df1b6b399bfc5cafc81fb8a618774e95cbfeb1285869cd060e119bf81a997&]
