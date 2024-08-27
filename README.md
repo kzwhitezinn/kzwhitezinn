@@ -10,4 +10,7 @@ Meu nome é *kzwhitezinn*
 ![@kzwhitezinn] (https://www.instagram.com/kzwhitezinn/)
 - @zwhitezinn_
 
+![https://cdn.pfps.gg/pfps/5021-bunny-girl.png](link GIF do Tenor)
 ![https://cdn.pfps.gg/pfps/5021-bunny-girl.png]
+
+
