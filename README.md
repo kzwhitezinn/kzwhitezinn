@@ -10,6 +10,6 @@ Meu nome é **kzwhitezinn**
 - [kzwhitezinn](https://www.instagram.com/kzwhitezinn/)
 - @zwhitezinn_
 
-- [](https://i.pinimg.com/736x/55/03/90/550390e3884f3675cf6f49cc2a929013.jpg)
+[](https://i.pinimg.com/736x/55/03/90/550390e3884f3675cf6f49cc2a929013.jpg)
 
 
