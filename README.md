@@ -11,9 +11,9 @@ Meu nome é **kzwhitezinn**
 - [kzwhitezinn](https://www.instagram.com/kzwhitezinn/)
 - @zwhitezinn_
 
-<h3 align="center"><i>Optimizer</i></h3>
+<h3 align="center"><i>S2</i></h3>
 <p align="center">
-<img src="https://github.com/kzwhitezinn/kzwhitezinn/blob/main/SPOILER_paradiseoptimizerv2.png"/>
+<img src="https://w.wallhaven.cc/full/nz/wallhaven-nz3lov.jpg"/>
 </p>
 
 
