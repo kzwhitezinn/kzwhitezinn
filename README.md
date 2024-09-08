@@ -11,7 +11,7 @@ FPS Boost: Desenvolvo soluções para otimização de jogos e sistemas, visando 
 Tecnologia de Celulares: Comparativos e dicas sobre celulares etc 
   ```
 
-Neste perfil, você encontrará projetos que desenvolvi juntamente com minha equipe, todos focados em melhorar seu desempenho e experiência digital. Para saber mais sobre mim e meu trabalho , [clique aqui](https://linktr.ee/zWhitezinn).
+Este perfil apresenta uma variedade de projetos, alguns desenvolvidos individualmente e outros em colaboração com minha equipe. Todos são voltados para aprimorar a experiência digital e a eficiência dos sistemas. Para conhecer mais sobre mim e meu trabalho , [clique aqui](https://linktr.ee/zWhitezinn).
 Se precisar entrar em contato, estou disponível através das seguintes opções:
 
 ### Contato 📫
@@ -21,7 +21,7 @@ Se precisar entrar em contato, estou disponível através das seguintes opções
 
 <h3 align="center"><i>Obrigado pela visita e aproveite os projetos!</i></h3>
 <p align="center">
-<img src="https://w.wallhaven.cc/full/nz/wallhaven-nz3lov.jpg"/>
+<img src="https://cdns-images.dzcdn.net/images/cover/aedee095a6bbde0495cc7ebe190d9e3e/1900x1900-000000-80-0-0.jpg"/>
 </p>
 
 
