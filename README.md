@@ -16,7 +16,7 @@ OS: Windows 11 x64
 Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
-Learning: JavaScript, HTML, Css
+Learning: HTML, CSS, information security
 Languages: Nenhuma
 ```
 
