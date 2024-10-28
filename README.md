@@ -34,7 +34,7 @@ Se precisar entrar em contato, estou disponível através das seguintes opções
 
 <h3 align="center"><i>Obrigado pela visita e aproveite os projetos!</i></h3>
 <p align="center">
-<img src="https://c4.wallpaperflare.com/wallpaper/149/596/863/mr-robot-elliot-mr-robot-tv-fsociety-wallpaper-preview.jpg"/>
+<img src="https://www.ultraimagehub.com/wallpapers/tr:flp-false,gx-0.5,gy-0.2,q-75,rh-3264,rw-5824,th-1080,tw-1920/1273893683116376065.jpeg"/>
 </p>
 
 
