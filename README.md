@@ -11,7 +11,6 @@ Olá! Sou kzwhitezinn, YouTuber de 16 anos focado em FPS Boost e desenvolvedor d
 
 ```lua
 zWhitezinn
-▔▔▔▔▔▔▔▔
 OS: Windows 10 Atlas OS
 Shell: Windows Terminal
 Pronouns: Ele/Dele
