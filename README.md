@@ -12,12 +12,20 @@ Olá! Sou kzwhitezinn, YouTuber de 16 anos focado em FPS Boost e desenvolvedor d
 ```lua
 zWhitezinn
 ▔▔▔▔▔▔▔▔
-OS: Windows 10 Atlas Os
+OS: Windows 10 Atlas OS
 Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
-Studying: HTML, CSS, information security
-Languages: Nenhuma
+Studying: HTML, CSS, segurança da informação
+
+Languages: Nenhuma (ainda)
+
+Love:
+
+Otimização: Criador do Paradise Optimizer e outros scripts de otimização.
+Design: Especializado em criação de thumbs para canais de jogos e edição de vídeos no Premiere Pro.
+Conteúdo: YouTuber com mais de 500k de views no nicho de tech e otimização.
+
 ```
 
 <br><br>
@@ -31,10 +39,5 @@ Se precisar entrar em contato, estou disponível através das seguintes opções
 
 - [Instagram](https://www.instagram.com/zwhitezinn_creations/)
 - Discord: @zwhitezinn_
-
-<h3 align="center"><i>Obrigado pela visita e aproveite os projetos!</i></h3>
-<p align="center">
-<img src="https://c4.wallpaperflare.com/wallpaper/170/531/716/mr-robot-fsociety-fictional-logo-adobe-illustrator-wallpaper-preview.jpg"/>
-</p>
 
 
