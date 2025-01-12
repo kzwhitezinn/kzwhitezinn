@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🚀
 
-Olá! Sou kzwhitezinn, YouTuber de 15 anos focado em FPS Boost e desenvolvedor de soluções de otimização para jogos e sistemas.
+Olá! Sou kzwhitezinn, YouTuber de 16 anos focado em FPS Boost e desenvolvedor de soluções de otimização para jogos e sistemas.
 
 ```zsh
 > neofetch
@@ -12,7 +12,7 @@ Olá! Sou kzwhitezinn, YouTuber de 15 anos focado em FPS Boost e desenvolvedor d
 ```lua
 zWhitezinn
 ▔▔▔▔▔▔▔▔
-OS: Windows 11 x64
+OS: Windows 10 Atlas Os
 Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
