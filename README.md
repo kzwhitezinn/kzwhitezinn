@@ -6,7 +6,7 @@ Olá! Sou kzwhitezinn, YouTuber de 16 anos focado em FPS Boost e desenvolvedor d
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://i.pinimg.com/736x/15/d8/b2/15d8b24e03e474f461d2275561098f3b.jpg" width="185"/> 
+<a href="#"><img align="left" src="https://i.pinimg.com/736x/d4/86/0f/d4860f57a5259d3a3b5e496bdd56bfe2.jpg" width="185"/> 
 
 
 ```lua
