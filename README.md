@@ -17,15 +17,11 @@ Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
 Studying: HTML, CSS, segurança da informação
-
 Languages: Nenhuma (ainda)
-
 Love:
-
 Otimização: Criador do Paradise Optimizer e outros scripts de otimização.
 Design: Especializado em criação de thumbs para canais de jogos e edição de vídeos no Premiere Pro.
 Conteúdo: YouTuber com mais de 500k de views no nicho de tech e otimização.
-
 ```
 
 <br><br>
