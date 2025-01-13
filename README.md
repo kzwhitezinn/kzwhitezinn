@@ -16,7 +16,6 @@ OS: Windows 10 Atlas os
 Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
-Learning: JavaScript, HTML, Python
 Languages: None
 Hobbies: Games, love my gf, Programming
 ```
