@@ -17,7 +17,7 @@ Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
 Languages: None
-Hobbies: Games, love my gf, Programming
+Hobbies: Games, Programming
 ```
 
 
