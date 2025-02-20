@@ -1,4 +1,8 @@
+```zsh
+> neofetch
+```
 
+<a href="#"><img align="left" src="https://i.pinimg.com/474x/f3/42/d0/f342d0f6f9256f1d7c559674c4dd80d6.jpg" width="185"/> 
 
 ```lua
 zWhitezinn55
