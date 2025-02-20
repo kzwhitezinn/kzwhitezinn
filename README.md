@@ -1,25 +1,19 @@
-### Boas vindas ao meu perfil 🚀
-
-Olá! Sou kzwhitezinn, YouTuber de 16 anos focado em FPS Boost e desenvolvedor de soluções de otimização para jogos e sistemas.
-
-```zsh
-> neofetch
-```
-
-<a href="#"><img align="left" src="https://i.pinimg.com/736x/d4/86/0f/d4860f57a5259d3a3b5e496bdd56bfe2.jpg" width="185"/> 
 
 
 ```lua
-zWhitezinn
+zWhitezinn55
 ▔▔▔▔▔▔▔▔
-OS: Windows 10 Revi os 20h2
+OS: Windows 10 Revi Os x64
 Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
-Languages: None
-Hobbies: Games, Programming
+Developer: JavaScript, HTML, Batch
+Hobbies:  Programming, Games, Love my gf
 ```
 
+<br><br>
+
+---
 
 <br><br>
 
