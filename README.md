@@ -21,6 +21,8 @@ Hobbies:  Programming, Games, Love my gf
 
 <br><br>
 
+- Me Chamo Kawe Vicente, com 16 anos, sou youtuber e programador, sou completamente apaixonado por essa area de programação, sou C.E.O da Paradise Optimizer.
+
 - Além de minha paixão por otimização e tecnologia, sou editor de vídeos experiente no Premiere Pro, o que me permite criar e refinar conteúdos visuais para meus canais. Tenho também um foco em criar conteúdos virais que engajam e atraem uma ampla audiência.
 
 - Este perfil apresenta uma variedade de projetos, alguns desenvolvidos individualmente e outros em colaboração com minha equipe. Todos são voltados para aprimorar a experiência digital e a eficiência dos sistemas. Para conhecer mais sobre mim e meu trabalho , [clique aqui](https://linktr.ee/zWhitezinn).
