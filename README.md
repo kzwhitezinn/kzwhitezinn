@@ -11,7 +11,7 @@ OS: Windows 10 Revi Os x64
 Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
-Developer: JavaScript, HTML, Batch
+Developer: Html, Css, JavaScript
 Hobbies:  Programming, Games, Love my gf
 ```
 
